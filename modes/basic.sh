@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Pterodactyl Installer 
-# Copyright Forestracks 2022-2024
+# Copyright Forestracks 2022-2025
 
 # ------------------ Variables ----------------- #
 # Path (export everything that is possible, doesn't matter that it exists already)

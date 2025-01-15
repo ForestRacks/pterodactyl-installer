@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Pterodactyl Installer 
-# Copyright Forestracks 2022-2024
+# Copyright Forestracks 2022-2025
 
 
 # Check if script is loaded, load if not or fail otherwise.
